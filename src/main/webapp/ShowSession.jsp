@@ -11,6 +11,7 @@
     <title>Show Session Object</title>
 </head>
 <body>
+    Session Id <%= session.getId() %><br>
     <h3>Welcome <%= session.getAttribute("username") %></h3>
 </body>
 </html>
