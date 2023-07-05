@@ -9,26 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e8e5be-8a75-4d43-88da-ae1a0beda38c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/firat/implicitobjects/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Cookie.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/out_object.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/request_external.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/request_object.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/request_object_2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/response_object.jsp" afterDir="false" />
+    <list default="true" id="a8e8e5be-8a75-4d43-88da-ae1a0beda38c" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/SessionCreate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ShowSession.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sessions__example.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Cookie.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Cookie.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/response_object.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/response_object.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,11 +119,24 @@
       <workItem from="1688343456812" duration="2265000" />
       <workItem from="1688429706649" duration="5060000" />
       <workItem from="1688479477177" duration="1419000" />
-      <workItem from="1688480965693" duration="319000" />
+      <workItem from="1688480965693" duration="5271000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1688481316502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688481316502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

@@ -17,11 +17,10 @@
         an array with Cookie
         response_object.jsp cookie received
         */
-      for (int i = 0; i < cookies.length; i++) {
-        if (cookies[i].getName().equalsIgnoreCase("testCookie")) {
-
-          out.println("Received Cookie Values: ");
-        }
+      for (Cookie cookie : cookies) {
+          if(cookie.getName().equalsIgnoreCase("testCookie")) {
+              out.println("Received Cookie Values: " + cookie.getValue());
+          }
       }
         //Cookies are out in for-loop
     %>

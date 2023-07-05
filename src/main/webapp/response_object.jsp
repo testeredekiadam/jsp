@@ -21,7 +21,6 @@
        */
 
         cookieObject.setMaxAge(365*24*60*60);
-
         //expire duration of cookie
 
         response.addCookie(cookieObject);
